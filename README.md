@@ -127,7 +127,7 @@ I'm a **PhD Biomedical Engineer** from the **University of Tennessee, Knoxville*
 
 </details>
 
-📄 Full list on [ResearchGate](https://www.researchgate.net/profile/Amin-Jarrahi) &nbsp;•&nbsp; **9 Publications** &nbsp;•&nbsp; **71+ Citations**
+📄 Full list on [Google Scholar](https://scholar.google.com/citations?user=eKRyRykAAAAJ&hl=en) &nbsp;•&nbsp; **9 Publications** &nbsp;•&nbsp; **83+ Citations**
 
 ---
 
