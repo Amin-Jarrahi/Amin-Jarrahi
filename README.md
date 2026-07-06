@@ -72,7 +72,7 @@ I'm a **PhD Biomedical Engineer** from the **University of Tennessee, Knoxville*
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧬 GWAS Pipeline</h3>
+      <h3 align="center">🧬 Genomic Machine Learning Prediction & Causal Inference Pipeline</h3>
       <p align="center">
         <a href="https://github.com/Amin-Jarrahi/GWAS" target="_blank">
           <img src="https://img.shields.io/badge/VIEW_REPO-blue?style=for-the-badge&logo=github" />
