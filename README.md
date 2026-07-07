@@ -60,7 +60,7 @@ I'm a **PhD Biomedical Engineer** from the **University of Tennessee, Knoxville*
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/github/stars/CIL-UTK/Delocalization_Score?style=flat-square"/></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ MZ-Matcher</h3>
+      <h3 align="center">📊 MZ-Matcher</h3>
       <p align="center">
         <a href="https://github.com/Amin-Jarrahi/mz-matcher" target="_blank">
           <img src="https://img.shields.io/badge/VIEW_REPO-blue?style=for-the-badge&logo=github" />
@@ -82,18 +82,6 @@ I'm a **PhD Biomedical Engineer** from the **University of Tennessee, Knoxville*
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 CSV Editor for MZ-Matcher</h3>
-      <p align="center">
-        <a href="https://github.com/Amin-Jarrahi/CSV_Editor_For_MZ_Matcher_Results" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_REPO-blue?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p>C++ utility for post-processing and editing MZ-Matcher output CSV files for downstream analysis.</p>
-      <p><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
       <h3 align="center">📓 PhD Thesis</h3>
       <p align="center">
         <a href="https://github.com/Amin-Jarrahi/PhD_Thesis" target="_blank">
