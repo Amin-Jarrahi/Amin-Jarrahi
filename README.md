@@ -99,7 +99,7 @@ I'm a **PhD Biomedical Engineer** from the **University of Tennessee, Knoxville*
 ## 📚 Selected Publications
 
 <details>
-<summary><b>Click to expand full list (9 publications · 71+ citations)</b></summary>
+<summary><b>Click to expand full list (7 publications · 84+ citations)</b></summary>
 <br/>
 
 | Year | Title | Journal |
