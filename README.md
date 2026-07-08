@@ -115,7 +115,7 @@ I'm a **PhD Biomedical Engineer** from the **University of Tennessee, Knoxville*
 
 </details>
 
-📄 Full list on [Google Scholar](https://scholar.google.com/citations?user=eKRyRykAAAAJ&hl=en) &nbsp;•&nbsp; **9 Publications** &nbsp;•&nbsp; **83+ Citations**
+📄 Full list on [Google Scholar](https://scholar.google.com/citations?user=eKRyRykAAAAJ&hl=en) &nbsp;•&nbsp; **7 Publications** &nbsp;•&nbsp; **84+ Citations**
 
 ---
 
