@@ -82,6 +82,17 @@ I'm a **PhD Biomedical Engineer** from the **University of Tennessee, Knoxville*
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center"> MSI Isotope & Adduct Detection Pipeline</h3>
+      <p align="center">
+        <a href="https://github.com/Amin-Jarrahi/msi-isotope-pipeline.git" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_REPO-blue?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>A spatial-statistics-driven pipeline for identifying isotope and adduct relationships in Mass Spectrometry Imaging data using machine-learned similarity weights.</p>
+      <p><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></p>
+    </td>
+  </tr>
+      <td width="100" valign="top">
       <h3 align="center">📓 PhD Thesis</h3>
       <p align="center">
         <a href="https://github.com/Amin-Jarrahi/PhD_Thesis" target="_blank">
