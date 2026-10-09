@@ -92,17 +92,6 @@ I'm a **PhD Biomedical Engineer** from the **University of Tennessee, Knoxville*
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></p>
     </td>
   </tr>
-      <td width="100" valign="top">
-      <h3 align="center">📓 PhD Thesis</h3>
-      <p align="center">
-        <a href="https://github.com/Amin-Jarrahi/PhD_Thesis" target="_blank">
-          <img src="https://img.shields.io/badge/VIEW_REPO-blue?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p>Jupyter Notebook collection documenting dissertation research in multi-modal biomedical data integration, spatial omics, and computational biology.</p>
-      <p><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></p>
-    </td>
-  </tr>
 </table>
 
 ---
